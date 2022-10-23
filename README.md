@@ -1,4 +1,5 @@
 # Insertion-Sort-Homework
+[Patika.dev](https://www.patika.dev/tr)
 Soru-1  : [22,27,16,2,18,6] Yanda verilen dizinin Insertion sort türüne göre aşamalarını yazınız.
 Cevap-1 : [2,27,16,22,18,6]
           [2,6,16,22,18,27]
